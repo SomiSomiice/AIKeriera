@@ -1,0 +1,38 @@
+{
+  "node": {
+    "400d0a778586935113f1d90777cc5410b992f2becb": {
+      "workers": {
+        "app/automation-risk/page": {
+          "moduleId": "[project]/.next-internal/server/app/automation-risk/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/automation-risk/page": "action-browser"
+      }
+    },
+    "40419383899722b08309bdaf5144fce91476e50dca": {
+      "workers": {
+        "app/automation-risk/page": {
+          "moduleId": "[project]/.next-internal/server/app/automation-risk/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/automation-risk/page": "action-browser"
+      }
+    },
+    "40ead1b984f595631c019892b8569232a2b6a8000a": {
+      "workers": {
+        "app/automation-risk/page": {
+          "moduleId": "[project]/.next-internal/server/app/automation-risk/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/automation-risk/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
